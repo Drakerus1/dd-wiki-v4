@@ -3,7 +3,7 @@ tags:
 - character
 ---
 > [!infobox]
-> # `Kairi`
+> # `Kairi2`
 > ![[kairi-young.jpg|200]]
 > ###### About
 > | Titles | None |
